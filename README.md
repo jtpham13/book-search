@@ -12,10 +12,10 @@ NPM install and npm run develop are used to download dependencies and run the bu
 
 ## Usage 
 
+<img src="https://github.com/jtpham13/book-search/blob/main/client/src/assets/booksearch.png"/>
 
 
-
-
+[Click here for deployed app](https://mern-jp-a910e0b51300.herokuapp.com/)
 
 ## License 
 
